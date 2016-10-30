@@ -2,7 +2,7 @@ site_name: Robostorm
 site_dir: /var/www/html/mkdocs-site
 repo_url: https://github.com/Robostorm
 theme: flatly
-site_favicon: icon.png
+site_favicon: 'icon.png'
 pages:
 - Home: 'index.md'
 - Projects:
