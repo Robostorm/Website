@@ -4,7 +4,7 @@ repo_url: https://github.com/Robostorm
 theme: flatly
 pages:
 - Home: 'index.md'
-- Projects: 
+- Projects:
     - 'Aquabot': 'aquabot.md'
     - 'Aquaponics': 'aquaponics.md'
     - '3D Printer': '3dprinter.md'
