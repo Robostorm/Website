@@ -1,21 +1,3 @@
 # Robostorm Robotics
 
-Robostorm Robotics Club is great
-
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Robostorm Robotics is the first science based club in the Huntedon County 4H. We have been around since 2011, and aim to educate members about science and technology.
