@@ -2,3 +2,10 @@ site_name: Robostorm
 site_dir: /var/www/html/mkdocs-site
 repo_url: https://github.com/Robostorm
 theme: flatly
+pages:
+- Home: 'index.md'
+- Projects: 'projects.md'
+- Battlebots: 'battlebots.md'
+- About Us:
+    - 'Contact Us': 'contact.md'
+    - 'History': 'history.md'
