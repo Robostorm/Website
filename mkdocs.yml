@@ -1,2 +1,3 @@
 site_name: Robostorm
 site_dir: /var/www/html/mkdocs-site
+theme: cosmo
