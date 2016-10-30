@@ -1,6 +1,6 @@
 # Robostorm Robotics
 
-Robostorm Robotics
+Robostorm Robotics Club
 
 # Welcome to MkDocs
 
