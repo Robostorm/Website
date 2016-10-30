@@ -1,6 +1,6 @@
 # Robostorm Robotics
 
-Robostorm Robotics Club
+Robostorm Robotics Club is great
 
 # Welcome to MkDocs
 
