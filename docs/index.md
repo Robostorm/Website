@@ -1,6 +1,6 @@
 # Robostorm Robotics
 
-Robostorm
+Robostorm Robotics
 
 # Welcome to MkDocs
 
