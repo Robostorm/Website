@@ -1,3 +1,4 @@
 site_name: Robostorm
 site_dir: /var/www/html/mkdocs-site
+repo_url: https://github.com/Robostorm/website-new
 theme: cosmo
