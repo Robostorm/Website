@@ -8,7 +8,7 @@ pages:
     - 'Aquabot': 'aquabot.md'
     - 'Aquaponics': 'aquaponics.md'
     - '3D Printer': '3dprinter.md'
-    - 'Other Projects':'projects.md'
+    - 'Other Projects': 'projects.md'
 - Battlebots: 'battlebots.md'
 - About Us:
     - 'Contact Us': 'contact.md'
