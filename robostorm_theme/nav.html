@@ -52,7 +52,7 @@
                 
                 {%- block next_prev %}
                 {%- if page and (page.next_page or page.previous_page) %}
-                  <!--  <li {% if not page.previous_page %}class="disabled"{% endif %}>
+                    <li {% if not page.previous_page %}class="disabled"{% endif %}>
                         <a rel="next" {% if page.previous_page %}href="{{ page.previous_page.url }}"{% endif %}>
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
@@ -61,7 +61,7 @@
                         <a rel="prev" {% if page.next_page %}href="{{ page.next_page.url }}"{% endif %}>
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
-                    </li> !-->
+                    </li>
                 {%- endif %}
                 {%- endblock %}
                 
