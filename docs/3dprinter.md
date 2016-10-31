@@ -6,7 +6,7 @@ As a way to teach members about not only 3d printing, but also electronics and m
 
 ## Nametag Printing at the Fair
 
-With so many members that had their own printers, we needed something for them all to do at the fair. As a way to make some money at it, we came up with the idea of printing custom nametags for fairgoers, for only a dollar each. In order to do this, we needed an automated system to take names, generate the nametag, prepare it for printing, and print it on the printers. To make printing to the printers easier, we set up each printer with a [Raspberry Pi](https://raspberrypi.org) running [Octoprint](https://octoprint.org). This allowed an easy was to a central server to print to each of the printers, without needing to be directly connected to each one.
+With so many members that had their own printers, we needed something for them all to do at the fair. As a way to make some money at it, we came up with the idea of printing custom nametags for fairgoers, for only a dollar each. In order to do this, we needed an automated system to take names, generate the nametag, prepare it for printing, and print it on the printers. To make printing to the printers easier, we set up each printer with a [Raspberry Pi](https://raspberrypi.org) running [Octoprint](http://octoprint.org). This allowed an easy was to a central server to print to each of the printers, without needing to be directly connected to each one.
 
 ### The Original
 
