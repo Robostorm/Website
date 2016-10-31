@@ -2,6 +2,8 @@
 
 ## Club 3D Printer
 
+![Printer Image](clubprinter.png)
+
 As a way to teach members about not only 3d printing, but also electronics and mechanics, the club bought a [Reprappro Monomendel](https://reprappro.com/documentation/mendel-tricolour/) kit for the members to assemble. This kit was chosen because some of the members had built one on their own time, and could help other members putting it together. Once it was build, we rotated the printed between members, so whoever wanted to print something could. After building the club printer, many members wanted their own. They bought the same kit, and used their experience from building the club printer to build their own.
 
 ## Nametag Printing at the Fair
