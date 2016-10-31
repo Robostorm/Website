@@ -3,6 +3,7 @@ site_dir: /var/www/html/mkdocs-site
 repo_url: https://github.com/Robostorm
 theme: flatly
 site_favicon: icon.png
+include_next_prev: false
 pages:
 - Home: 'index.md'
 - Projects:
