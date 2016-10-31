@@ -14,7 +14,7 @@ The server to collect and print the nametags has benn revised many times since i
 
 ### The Second
 
-![Input page](nametagpretty.png)
-![Manager Page](nametagmanager.png)
+![Input page](nametagpretty.png =500x250)
+![Manager Page](nametagmanager.png =500x250)
 
 The [second version](https://github.com/Robostorm/Nametag-Auto-Printing) was then written from scratch in the Go language by another member, trying to make it as bulletproof as possible. It got an initial test run at the Maker Day that the club participated in during the spring, allowing a full test before the fair. After some final modifications, it was used at the fair to print to all of the five printers there, and worked great. It never crashed, printed each nametag only once, and did everything it was supposed to.
