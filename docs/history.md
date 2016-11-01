@@ -1,5 +1,6 @@
 # History
 
+---
 ## 2016
  - Redo of club banner
 
@@ -25,6 +26,7 @@
  - MAKE OVER $1100 IN AQUABOT AND 3D PRINTER SALES!!!!
  - Sell out of Legos in Lego fundraiser
 
+---
 ## 2015
  - First time at the Makerday at the library
  
@@ -54,6 +56,7 @@
  - Still arcades in the shed, but reserved part of shed for nametag server and our stuff
  - Start selling donated Legos to benifit Tabby's place
 
+---
 ## 2014
  - Start to move away from Mindstorms
  - Club grew in size
@@ -76,6 +79,7 @@
  - Shared tent with Roborockers
  - Debut of Battlebots, huge success
 
+---
 ## 2013
  - Still lots of Lego Mindstorms projects
  - Displayed at Indipendance Manor
@@ -90,6 +94,7 @@
  - Various personal projects in the tent
  - Debut of Aquabot
 
+---
 ## 2012
  - Club grew in size
  - Club bought club Mindstorms kits to loan out to members, and for fair projects
@@ -100,6 +105,7 @@
  - Included Lego Sheep Herder, Ferris Wheel, Tractor Pull, and others
  - Various personal projects in the tent
 
+---
 ## Founding 2011
  - First year as a club
  - Started with only about 5 members
