@@ -1,5 +1,8 @@
 # History
-
+---
+## 2017
+ - Accepted lots of new members. Club trippled in size.
+ 
 ---
 ## 2016
  - Redo of club banner
