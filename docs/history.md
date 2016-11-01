@@ -10,6 +10,20 @@
  - Add keyswitch to renable
  - Add emergency stop button
  - Add leds in the drive electronics box to signal enabled
+ 
+### 3D Printing
+ - 3D Printer control board gets replaced
+ - 3D Printer bed gets replaced with blank pcb
+ - 3D Printer bed get insulate underneath with cork
+ - Nametag app gets redone in Go, works much better
+ - Nametag server upgraded to Vostro 200
+ 
+### Fair
+ - Shed is on opposite side of the tent
+ - Share tent with Astrobots
+ - Arcades in shed
+ - MAKE OVER $1100 IN AQUABOT AND 3D PRINTER SALES!!!!
+ - Sell out of Legos in Lego fundraiser
 
 ## 2015
  - First time at the Makerday at the library
@@ -38,6 +52,7 @@
   - Nametage app was buggy and had issues
   - Nametag app ran on old laptop
  - Still arcades in the shed, but reserved part of shed for nametag server and our stuff
+ - Start selling donated Legos to benifit Tabby's place
 
 ## 2014
  - Start to move away from Mindstorms
