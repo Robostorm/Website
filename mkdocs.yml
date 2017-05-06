@@ -1,5 +1,5 @@
 site_name: Robostorm
-site_dir: /var/www/html/mkdocs-site
+site_dir: /var/www/html
 repo_url: https://github.com/Robostorm
 theme: flatly
 site_favicon: icon.png
