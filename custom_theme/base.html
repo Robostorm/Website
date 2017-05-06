@@ -71,7 +71,8 @@
             {% if config.copyright %}
                 <center>{{ config.copyright }}</center>
             {% endif %}
-            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDorks</a>.</center>
+            {% include "footer.html" %}
+            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
             {%- endblock %}
         </footer>
 
