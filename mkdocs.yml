@@ -16,4 +16,3 @@ pages:
 - About Us:
     - 'Contact Us': 'contact.md'
     - 'History': 'history.md'
-- Members Only: 'lock/members.md'
