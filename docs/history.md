@@ -3,6 +3,9 @@
 ## 2017
  - Accepted lots of new members. Club trippled in size.
  
+### Aquabot
+ - Aquabot Locator became a thing
+ 
 ---
 ## 2016
  - Redo of club banner
