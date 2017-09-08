@@ -1,3 +1,8 @@
-# FTC
+# FTC Team 12601
 
-Robostorm is starting an FTC team for the upcoming 2017-2018 season.  More details to come!
+This year (2017-2018) is our team's first year. We hope to have a great season!
+
+### List of Sponsors:
+Misty & Neal Kramer
+Jeanette & Hunter Corbin
+Michael & Sara Schemick
