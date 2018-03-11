@@ -1,5 +1,5 @@
 site_name: Robostorm
-site_dir: /var/www/html
+site_dir: /var/www/robostorm/public_html
 repo_url: https://github.com/Robostorm
 theme: flatly
 theme_dir: custom_theme
