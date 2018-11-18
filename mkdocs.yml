@@ -33,6 +33,12 @@ theme:
   name: material
   palette:
     primary: 'Green'
+    secondary:
+  font:
+    text:
+    code:
+    logo:
+      icon: ''
   favicon: img/icon.png
   language: 'en'
   feature:
