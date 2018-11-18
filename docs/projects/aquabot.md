@@ -1,6 +1,6 @@
 # Aquabot
 
-![Aquabot](AquabotEarthday.png)
+![Aquabot](/img/AquabotEarthday.png)
 
 As we were sitting around during our second fair, thirsty for water in the hot sun, we wondered if we could build a robot to bring water to us, rather than having to get water ourselves. And such, the Aquabot was born. We an old powered wheelchair donated to us, and we added remote controls and a cooler with a dispenser and bill acceptor.
 
@@ -10,4 +10,4 @@ The first thing we did with the wheelchair was to figure out how to get it to mo
 
 ## Dispenser and Bill Acceptor
 
-The first version of the cooler used a Lego Mindstorms to accept bills and dispense water. It could only hold a few bottles at a time, and would not always dispense reliably. We then decided to replace it with a 3d printed dispenser that was smaller, more reliable, and could hold more bottles. At the same time, the Lego bill acceptor was replaced with a bill acceptor from an old vending machine. To control the new dispenser and bill acceptor, the Lego Mindstorms was replaced with a [Teensy++ 2.0](http://www.pjrc.com/store/teensypp.html) on a custom control board. We also added an LCD and keypad to show bottles left, sold, and allow some configuration. We also added some LED strips around the Aquabot, just for the intense lighting at night. The Teensy provided a nice was to control everthing with a [program](https://github.com/Robostorm/Aquabot-Main) written C. 
+The first version of the cooler used a Lego Mindstorms to accept bills and dispense water. It could only hold a few bottles at a time, and would not always dispense reliably. We then decided to replace it with a 3d printed dispenser that was smaller, more reliable, and could hold more bottles. At the same time, the Lego bill acceptor was replaced with a bill acceptor from an old vending machine. To control the new dispenser and bill acceptor, the Lego Mindstorms was replaced with a [Teensy++ 2.0](http://www.pjrc.com/store/teensypp.html) on a custom control board. We also added an LCD and keypad to show bottles left, sold, and allow some configuration. We also added some LED strips around the Aquabot, just for the intense lighting at night. The Teensy provided a nice was to control everthing with a [program](https://github.com/Robostorm/Aquabot-Main) written C.

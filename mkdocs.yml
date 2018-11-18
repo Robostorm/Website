@@ -1,17 +1,67 @@
+# Project Information
 site_name: Robostorm
+site_description:
+site_author: Robostorm Robotics
+site_url: 'https://robostorm.org'
 site_dir: /var/www/robostorm/public_html
-repo_url: https://github.com/Robostorm
-theme: flatly
-theme_dir: custom_theme
-site_favicon: icon.png
-pages:
+
+# Repository
+repo_name:
+repo_url: https://github.com/Robostorm/website
+
+# Page tree
+nav:
 - Home: 'index.md'
+- FTC:
+  - Info: 'FTC/info.md'
+  - Members: 'FTC/members.md'
+  - Awards: 'FTC/awards.md'
+  - Sponsers: 'FTC/sponsers.md'
 - Projects:
-    - 'Aquabot': 'aquabot.md'
-    - '3D Printing': '3dprinter.md'
-    - 'Other Projects': 'projects.md'
-- Battlebots: 'battlebots.md'
-- FTC: 'ftc.md'
+  - 'Aquabot': 'projects/aquabot.md'
+  - '3D Printing': 'projects/3dprinter.md'
+  - 'Other Projects': 'projects/other.md'
+- Battlebots:
+  - Info: 'battlebots/info.md'
+  - Rules: 'battlebots/rules.md'
 - About Us:
-    - 'Contact Us': 'contact.md'
-    - 'History': 'history.md'
+  - 'Contact Us': 'about-us/contact.md'
+  - 'History': 'about-us/history.md'
+
+# Configuration
+theme:
+  name: material
+  palette:
+    primary: 'Green'
+    secondary:
+  font:
+    text:
+    code:
+    logo:
+      icon: 'img/icon.png'
+  favicon: img/icon.png
+  language: 'en'
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/Robostorm'
+    - type: 'envelope'
+      link: 'mailto:info@robostorm.org'
+
+# Google Analytics
+google_analytics:
+  - 'UA-129339834-1'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - meta
