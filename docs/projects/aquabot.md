@@ -1,6 +1,7 @@
 # Aquabot
+---
 
-![Aquabot](/img/AquabotEarthday.png)
+![Aquabot](img/AquabotEarthday.png)
 
 As we were sitting around during our second fair, thirsty for water in the hot sun, we wondered if we could build a robot to bring water to us, rather than having to get water ourselves. And such, the Aquabot was born. We an old powered wheelchair donated to us, and we added remote controls and a cooler with a dispenser and bill acceptor.
 

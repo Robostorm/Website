@@ -16,10 +16,10 @@ nav:
   - Info: 'FTC/info.md'
   - Members: 'FTC/members.md'
   - Awards: 'FTC/awards.md'
-  - Sponsers: 'FTC/sponsers.md'
+  - Sponsors: 'FTC/sponsors.md'
 - Projects:
   - 'Aquabot': 'projects/aquabot.md'
-  - '3D Printing': 'projects/3dprinter.md'
+  - '3D Printing': 'projects/3dprinting.md'
   - 'Other Projects': 'projects/other.md'
 - Battlebots:
   - Info: 'battlebots/info.md'
@@ -38,7 +38,7 @@ theme:
     text:
     code:
     logo:
-      icon: ''
+      icon: 'android'
   favicon: img/icon.png
   language: 'en'
   feature:
