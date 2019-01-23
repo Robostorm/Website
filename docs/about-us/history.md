@@ -1,30 +1,31 @@
 # History
 ---
+
 ## 2017
- - Accepted lots of new members. Club trippled in size.
- 
+ - Accepted lots of new members. Club tripled in size.
+
 ### Aquabot
  - Aquabot Locator became a thing
- 
+
 ---
 ## 2016
  - Redo of club banner
 
 ### Aquabot
  - Store bottles sold in EEPROM
- - Add connectors for LEDs, requied switching location of money and electronics boxes
+ - Add connectors for LEDs, required switching location of money and electronics boxes
  - Replaced battery
- - Add keyswitch to renable
+ - Add key switch to re-enable
  - Add emergency stop button
  - Add leds in the drive electronics box to signal enabled
- 
+
 ### 3D Printing
  - 3D Printer control board gets replaced
  - 3D Printer bed gets replaced with blank pcb
  - 3D Printer bed get insulate underneath with cork
  - Nametag app gets redone in Go, works much better
  - Nametag server upgraded to Vostro 200
- 
+
 ### Fair
  - Shed is on opposite side of the tent
  - Share tent with Astrobots
@@ -34,15 +35,15 @@
 
 ---
 ## 2015
- - First time at the Makerday at the library
- 
+ - First time at the Maker day at the library
+
 ### Aquabot
  - Moved Teensy and cooler electronics out of the money box and into its own box
  - Added keypad to go along with LCD
  - Added LED strips
  - Added microcontroller in drive box for enable button
  - Made panels to cover cooler
- 
+
 ### Battlebots
  - Official field made
  - Start to allow some non Lego components
@@ -57,10 +58,10 @@
  - First year flying copters at the fair
  - First year doing 3D Printed Nametags
   - Of the 4 printers, only 2 or 3 operational at a time
-  - Nametage app was buggy and had issues
+  - Nametag app was buggy and had issues
   - Nametag app ran on old laptop
  - Still arcades in the shed, but reserved part of shed for nametag server and our stuff
- - Start selling donated Legos to benifit Tabby's place
+ - Start selling donated Legos to benefit Tabby's place
 
 ---
 ## 2014
@@ -88,12 +89,12 @@
 ---
 ## 2013
  - Still lots of Lego Mindstorms projects
- - Displayed at Indipendance Manor
- 
+ - Displayed at Independence Manor
+
 ### Aquabot
  - First year!
  - Lego dispenser and bill acceptor
- 
+
 ### Fair
  - Same size tent and shed
  - Shed Lego projects included the Lego Mazebot, Ziplinebot, and ROMbot
@@ -104,7 +105,7 @@
 ## 2012
  - Club grew in size
  - Club bought club Mindstorms kits to loan out to members, and for fair projects
- 
+
 ### Fair
  - Got our own tent at the fair, along with a shed next to it for storage at night
  - Made a small mock-up of the fairgrounds in the shed
@@ -115,7 +116,7 @@
 ## Founding 2011
  - First year as a club
  - Started with only about 5 members
- 
+
 ### Fair
  - Got a display in the Ramsburg building and timeslots in the sheep barn for demos
  - All Lego Mindstorms projects

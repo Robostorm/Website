@@ -37,9 +37,9 @@ theme:
   font:
     text:
     code:
-    logo:
-      icon: 'android'
-  favicon: img/icon.png
+  logo:
+    icon: android
+  favicon: img/Robostorm-Logo.png
   language: 'en'
   feature:
     tabs: true
