@@ -3,40 +3,27 @@
 
 ## 2018-2019
 
-### Winters Edge:
-* Highest points by an alliance in a match
+### Battle in the Blizzard:
+* Audacious Autonomous
 
 ### Liberty Science Center (Qualifier):
 * Winning Alliance Captain
 * Connect Award Winner
 
-### Battle in the Blizzard:
-* Audacious Autonomous
+### Winters Edge:
+* Highest points by an alliance in a match
 
 ## 2017-2018
 
-### Central Start Up:
-* Winning Alliance
-* Highest Scoring Alliance
-* Alliance Captain with the Highest Ranking points
-* Audacious Autonomous
+### Detroit World championships:
+* Finished in the top 40 overall based on total score
 
-### Havoc on the Hudson:
-* Winning Alliance
-* Highest Scoring Alliance
-* Alliance Captain with the Highest Ranking points
-* Audacious Autonomous
+### Eastern Super Regionals:
+* Qualified for the world championships in Detroit based on total score
 
-### Winters Edge:
-* Winning Alliance
-* Highest Points by an Alliance in a Match
-* Audacious Autonomous
-* Outstanding Performance by a Rookie Team
-
-### Robo Joust (Qualifier):
-* Winning Alliance
-* Innovate Award
-* Qualified for State Championships
+### New Jersey State Championships:
+* Finalist Alliance Captain
+* Qualified for Super Regionals
 
 ### Battle in the Blizzard:
 * Winning Alliance
@@ -44,12 +31,25 @@
 * Outstanding Performance by a Rookie Team
 * Awarded a certificate by the NJ FTC team for aiding set-up and breakdown of all events that we attended
 
-### New Jersey State Championships:
-* Finalist Alliance Captain
-* Qualified for Super Regionals
+### Robo Joust (Qualifier):
+* Winning Alliance
+* Innovate Award
+* Qualified for State Championships
 
-### Eastern Super Regionals:
-* Qualified for the world championships in Detroit based on total score
+### Winters Edge:
+* Winning Alliance
+* Highest Points by an Alliance in a Match
+* Audacious Autonomous
+* Outstanding Performance by a Rookie Team
 
-### Detroit World championships:
-* Finished in the top 40 overall based on total score
+### Havoc on the Hudson:
+* Winning Alliance
+* Highest Scoring Alliance
+* Alliance Captain with the Highest Ranking points
+* Audacious Autonomous
+
+### Central Start Up:
+* Winning Alliance
+* Highest Scoring Alliance
+* Alliance Captain with the Highest Ranking points
+* Audacious Autonomous
