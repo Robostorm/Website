@@ -1,2 +1,2 @@
-#                                                                                                                                                                              Upcoming Events
+# Upcoming Events
 ---
