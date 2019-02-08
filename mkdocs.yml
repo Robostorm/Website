@@ -26,7 +26,7 @@ nav:
   - Info: 'battlebots/info.md'
   - Resources:
     - Rules: 'battlebots/rules.md'
-    - Inspection Sheet: 'battlebots/inspection.md'
+    - Inspection Sheets: 'battlebots\inspection.md'
 - About Us:
   - 'Contact Us': 'about-us/contact.md'
   - 'History': 'about-us/history.md'
