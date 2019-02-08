@@ -7,7 +7,7 @@ site_dir: /var/www/robostorm/public_html
 
 # Repository
 repo_name:
-repo_url: https://github.com/Robostorm/website
+repo_url: https://github.com/Robostorm
 
 # Page tree
 nav:
@@ -24,7 +24,9 @@ nav:
   - 'Other Projects': 'projects/other.md'
 - Battlebots:
   - Info: 'battlebots/info.md'
-  - Rules: 'battlebots/rules.md'
+  - Resources:
+    - Rules: 'battlebots/rules.md'
+    - Inspection Sheet: 'battlebots/inspection.md'
 - About Us:
   - 'Contact Us': 'about-us/contact.md'
   - 'History': 'about-us/history.md'
