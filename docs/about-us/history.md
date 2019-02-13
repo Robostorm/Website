@@ -1,11 +1,22 @@
 # History
 ---
 
+## 2018
+ - Robostorm First Tech Challenge (FTC) Team is Formed!
+
+### FTC
+ - FTC team 12601 placed in the top 3 at all of their meets and qualifier
+ - Team 12601 Recieved the Inovate award at their qualifier
+ - 12601 advanced to the State Championship
+ - After being an aliance captain at the State Championships, team 12601 advanced to the East Super Regional Championship held in Scranton, PA
+ - Team 12601's ranking at the East Super Regional Championship advanced them to the FIRST World Championship in Detroit, Michigan
+
+---
 ## 2017
  - Accepted lots of new members. Club tripled in size.
 
 ### Aquabot
- - Aquabot Locator became a thing
+ - Aquabot Locator was created
 
 ---
 ## 2016
