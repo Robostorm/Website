@@ -19,17 +19,17 @@ nav:
   - Awards: 'FTC/awards.md'
   - Sponsors: 'FTC/sponsors.md'
 - Projects:
-  - 'Aquabot': 'projects/aquabot.md'
-  - '3D Printing': 'projects/3dprinting.md'
-  - 'Other Projects': 'projects/other.md'
+  - Aquabot: projects/aquabot.md
+  - 3D Printing: projects/3dprinting.md
+  - Other Projects: projects/other.md
 - Battlebots:
-  - Info: 'battlebots/info.md'
+  - Info: battlebots/info.md
   - Resources:
-    - Rules: 'battlebots/rules.md'
-    - Inspection Sheets: 'battlebots\inspection.md'
+    - Rules: battlebots/rules.md
+    - Inspection Sheets: battlebots/inspection.md
 - About Us:
-  - 'Contact Us': 'about-us/contact.md'
-  - 'History': 'about-us/history.md'
+  - Contact Us: about-us/contact.md
+  - History: about-us/history.md
 
 # Configuration
 theme:
