@@ -10,7 +10,7 @@ I am 16 years old and attend Delaware Valley Regional High School in Frenchtown,
 I am 16 years old and attend Delaware Valley Regional High School in Frenchtown, New Jersey. I have been in Robostorm Robotics club for 5 years and this is my 2nd year on FTC team 12601. This year I am the primary driver of the drive team. My skills vary and I help out with programming and mechanical.
 
 ## John
-I am 12 years old and attend Alexandria Middle School in Alexandria, New Jersey.  I have been in Robostorm Robotics for 4 years and this is my 2nd year on FTC team 12601.  This year I am the primary operator of the drive team, the lead programmer and the head of CAD.  I work on both mechanical and programming for the robot.
+I am 13 years old and attend Alexandria Middle School in Alexandria, New Jersey.  I have been in Robostorm Robotics for 4 years and this is my 2nd year on FTC team 12601.  This year I am the primary operator of the drive team, the lead programmer and the head of CAD.  I work on both mechanical and programming for the robot.
 
 ## Vivian
 I am 13 years old and attend Readington Middle School in Readington, New Jersey. I have been in robotics club for 3 years and this is my 2nd year on team 12601. I am in charge of the engineering notebook. This year I hope to have a neat and organized engineering notebook that will hopefully allow us to earn awards.
