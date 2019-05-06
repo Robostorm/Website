@@ -3,6 +3,9 @@
 
 We are FTC team 12601 - Robostorm. Our team is made up of middle and high school students from Hunterdon County, New Jersey.
 
+## Aidan
+I am 16 years old and attend Delaware Valley Regional High School in Frenchtown, New Jersey. I joined FTC Team 12601 of Robostorm Robotics in 2019, mainly to work on programming and CAD design. In addition to those, interests of mine include electrical and civil engineering, chemistry, and mountain biking.
+
 ## Ismail
 I am 16 years old and attend Delaware Valley Regional High School in Frenchtown, New Jersey. I have been in Robostorm Robotics club for 5 years and this is my 2nd year on FTC team 12601. This year I am the primary driver of the drive team. My skills vary and I help out with programming and mechanical.
 
