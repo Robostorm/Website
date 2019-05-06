@@ -4,7 +4,7 @@
 We are FTC team 12601 - Robostorm. Our team is made up of middle and high school students from Hunterdon County, New Jersey.
 
 ## Ismail
-I am 15 years old and attend Delaware Valley Regional High School in Frenchtown, New Jersey. I have been in Robostorm Robotics club for 5 years and this is my 2nd year on FTC team 12601. This year I am the primary driver of the drive team. My skills vary and I help out with programming and mechanical.
+I am 16 years old and attend Delaware Valley Regional High School in Frenchtown, New Jersey. I have been in Robostorm Robotics club for 5 years and this is my 2nd year on FTC team 12601. This year I am the primary driver of the drive team. My skills vary and I help out with programming and mechanical.
 
 ## John
 I am 12 years old and attend Alexandria Middle School in Alexandria, New Jersey.  I have been in Robostorm Robotics for 4 years and this is my 2nd year on FTC team 12601.  This year I am the primary operator of the drive team, the lead programmer and the head of CAD.  I work on both mechanical and programming for the robot.
