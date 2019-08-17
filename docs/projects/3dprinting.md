@@ -1,7 +1,9 @@
 # 3D Printing
 ---
 
-## Club 3D Printer
+![3D Printing](img/3D-Printing.jpg)
+
+## Origianal Club 3D Printer
 
 ![Printer Image](img/clubprinter.png)
 
