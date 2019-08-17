@@ -3,7 +3,7 @@ site_name: Robostorm
 site_description:
 site_author: Robostorm Robotics
 site_url: 'https://robostorm.org'
-site_dir: /var/www/robostorm/public_html
+site_dir: /var/www/public_html
 
 # Repository
 repo_name:
