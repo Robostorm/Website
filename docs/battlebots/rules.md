@@ -1,10 +1,11 @@
 # Battlebots Rules
 ---
 
-## Traditional Battlebots
+## Rules
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQODC1WbfHm2Dh6pNFtc4mlKrGt4ekqWqPDnANyNberfntbKZ_1kvQoTgFzd68taSEBKhPZVWOIkHTM/pub?embedded=true" width="100%" height="1000"></iframe>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ2L_5QUSjJTIe6C42tu8rSceLB5yi97817_SxOZSaxuv70uMQ4PHGMWlTB_6_X0T7tu7p3j909kMcJ/pub?embedded=true" width="100%" height="1000"></iframe>
+## Scoring Breakdown
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTNjMzMESM1RcGVZlSEmlmCoMuXzJb_i80qaKqFLQ0NwNE-IZZEcOlmslmV-ev_3dg40rk_7m3gNywK/pub?embedded=true" width="100%" height="1000"</iframe>
 
-## Skewer Battlebots
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSU6TYYt3xEt24n6Em2lEPbRXXNURBdqWbZVB61Nx7oiSf4cZut2JrlkhyQuS79DN2nrfvyFque1GjP/pub?embedded=true" width="100%" height="1000"</iframe>
+## Field Layout
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRyAnwr8h4JTxKiREWWrfrxAsGjkO0jTHAQiQ8FUc7wR2pPWjQ_Plk_IBtgV0sKPLLXjeI5gHOGNo3C/pub?embedded=true" width="100%" height="1000"</iframe>
