@@ -54,6 +54,10 @@ extra:
       link: 'https://github.com/Robostorm'
     - type: 'envelope'
       link: 'mailto:info@robostorm.org'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/channel/UCXMvitgD_y_tB7w8M-65e6w/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/RoboStorm12601'
 
 # Google Analytics
 google_analytics:
