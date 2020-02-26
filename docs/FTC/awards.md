@@ -1,6 +1,19 @@
 # Awards
 ---
 
+## 2019-2020
+
+### Howell Regional Meet:
+* Finalist Alliance Captain
+
+### Kean University Regional Meet:
+* Winning Alliance Captain
+* Best Teamwork Award
+* Best Autonomous
+
+### Robo-Ruckus Qualifier:
+* Inspire Award Winner
+
 ## 2018-2019
 
 ### Battle in the Blizzard:
