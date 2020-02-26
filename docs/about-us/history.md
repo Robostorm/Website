@@ -1,6 +1,17 @@
 # History
 ---
 
+## 2019
+ - Club maintains high membership level.
+ - Club meets a congresman at the 4H Fair
+ - Club members meet a person in distress at the 4H fair and uses their electrical skills to fix her broken electric wheelchair, earning kudos from fair staff and the person they helped. 
+
+### FTC
+ - FTC team 12601 placed high at and won several events
+ - Team 12601 was the winning alliance captain and recieved the Connect award at their state championship qualifier
+ - 12601 advanced to the State Championship
+ - Finalist for the Connect award at the NJ State Championships
+ 
 ## 2018
  - Robostorm First Tech Challenge (FTC) Team is Formed!
 
