@@ -10,3 +10,5 @@ We have advanced to the NJ State Championships each year we have competed and to
 Sadly, the 2019 - 2020 NJ State Championship and the April World Championships for FTC were cancelled because of the current global pandemic. Initially the NJ State Championships were postponed but as time moves on, the event organizers realized that there was not going to be a safe solution to running the event and it was cancelled for the year. 
 
 Various team members have been hard at work on ideas for the 2020 - 2021 robot! 
+
+As a club, we have been donating club supplies and printer time to help local hospitals, first responders and others deal with PPE shortages. Our members have donated several hundred face shields and other PPE items. In addition we helped one local police department obtain hand sanitizer and parts for a boot washing machine. We will continue to look for ways to utilize our technology skills to help out others.
