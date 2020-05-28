@@ -2,6 +2,6 @@
 ---
 
 
-# March 15, 2020 8:00AM - 6:00PM
-## The Garden State Rumble - FIRST Tech Challenge New Jersey State Championship
-## Columbia High School
+# May 28, 2020 12:00 EST
+## First Tech Challenge Teaser video release and team registration
+## www.firstinspires.org
