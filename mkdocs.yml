@@ -50,6 +50,7 @@ theme:
 
 # Extras
 extra:
+  disqus: 'robostorm'
   social:
     - icon: 'material/email'
       link: 'mailto:info@robostorm.org'
