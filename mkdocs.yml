@@ -9,6 +9,9 @@ site_dir: /var/www/public_html
 repo_name:
 repo_url: https://github.com/Robostorm
 
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2020 Robostorm Robotics'
+
 # Page tree
 nav:
 - Home: 'index.md'
