@@ -46,6 +46,7 @@ theme:
     scheme: slate
     primary: 'Green'
     secondary: 'Red'
+  logo: img/Robostorm-Logo.png
   favicon: img/Robostorm-Logo.png
 
 # Extras
