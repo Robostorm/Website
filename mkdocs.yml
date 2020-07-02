@@ -37,18 +37,14 @@ nav:
 # Configuration
 theme:
   name: material
+  language: 'en'
+  features:
+    - tabs
+    - instant
   palette:
     primary: 'Green'
-    secondary:
-  font:
-    text:
-    code:
-  logo:
-    icon: android
+    secondary: 'Red'
   favicon: img/Robostorm-Logo.png
-  language: 'en'
-  feature:
-    tabs: true
 
 # Customization
 extra:
