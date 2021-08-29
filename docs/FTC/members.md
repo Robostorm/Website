@@ -9,7 +9,7 @@ I am 15 years old and attend The Hunterdon County Computer Science and Applied E
 ## Vivian
 I am 16 years old and attend Hunterdon Central Regional High School in Flemington, New Jersey. I have been in the robotics club for 7 years and this is my 6th year on team 12601. I am in charge of the engineering notebook. I also have started to work on the CAD team, designing the team marker. In addition, I have been working on the team's social media presence. I have been rotating as one of the coaches for the drive team this season. This year I hope to have a neat and organized engineering notebook that will hopefully allow us to earn awards. I am also a member of HCRHS FRC Team 3637 Daleks where I work on the Chairman's Award committee, I am the safety captain and work on the presentation team. I also actively mentor several FLL teams.
 
-## New Members Bios coming soon - Several new memmbers have joined and we will present their bios ASAP!
+## New Members Bios coming soon - Several new members have joined and we will present their bios ASAP!
 
 ## Recent Graduates and New Mentors:
 
