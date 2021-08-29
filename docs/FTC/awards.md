@@ -1,6 +1,17 @@
 # Awards
 ---
 
+## 2020-2021
+
+### NJ State Championships:
+* 3rd Place Connect Award
+
+### Central West League Tournament:
+* 3rd Ranked Team - Qualified for NJ State Championship
+
+### Central West League - Remote Rank:
+* 3rd Ranked Team
+
 ## 2019-2020
 
 ### Howell Regional Meet:
@@ -13,6 +24,9 @@
 
 ### Robo-Ruckus Qualifier:
 * Inspire Award Winner
+
+### NJ State Championships:
+* Qualified for the Meet, cancelled due to COVID
 
 ## 2018-2019
 
