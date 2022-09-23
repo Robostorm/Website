@@ -1,6 +1,11 @@
 # Awards
 ---
 
+## 2022-2023
+
+### Central League Championships:
+* 2nd Place Connect Award
+
 ## 2020-2021
 
 ### NJ State Championships:
