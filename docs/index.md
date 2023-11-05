@@ -1,7 +1,12 @@
 # Robostorm Robotics
 ---
 
-**Robostorm Robotics** is a part of Hunterdon County 4-H in New Jersey. We are the first non-agricultural club in the county, focusing on robotics and technology. We were founded in 2011 with only five members, and have since grown to accommodate more than twenty. We work on many projects, including our [Aquabot](projects/aquabot.md), [3D Printing](projects/3dprinting.md), and [more](projects/other.md).
+Founded in 2011, Robostorm Robotics is a non-profit organization passionately dedicated to fostering innovation and enthusiasm for science, technology, engineering, and mathematics (STEM) in young hearts and minds across our community. We are committed to making robotics accessible to all students, fostering an environment where potential meets opportunity.
+
+At Robostorm, we are more than a robotics club; we are a community committed to creating storms of change by empowering students with the tools and confidence to chart new courses in technology and innovation, fostering a future where every child has the opportunity to become a creator, thinker, and leader in an ever-evolving digital world.
+
+This site serves as a living archive, documenting the journey and achievements of our dedicated students through several of our key projects. Check out our [Aquabot](projects/aquabot.md), a mobile robot which sells water to contribute to fundraisers. Experience the strategic design and competitive spirit fostered through our [Battle Bots](battlebots/info.md) competition, where creativity meets the excitement of robotics combat. Explore the transformative potential of [3D Printing](projects/3dprinting.md), a technology that our students are mastering to bring their most imaginative designs to life. Lastly, our [FTC Team](FTC/info) page chronicles the adventures and lessons learned by our competitive robotics team, who apply their skills in challenging and collaborative environments. Each project underscores our commitment to making STEM an engaging, enlightening, and accessible journey for all.
+
 
 ---
 
