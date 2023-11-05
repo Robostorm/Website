@@ -17,7 +17,6 @@ nav:
 - Home: 'index.md'
 - FTC:
   - Info: 'FTC/info.md'
-  - Members: 'FTC/members.md'
   - Awards: 'FTC/awards.md'
   - Sponsors: 'FTC/sponsors.md'
 - Projects:
