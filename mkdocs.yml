@@ -40,7 +40,6 @@ theme:
   language: 'en'
   features:
     - tabs
-    - instant
   palette:
     scheme: slate
     primary: 'Green'
